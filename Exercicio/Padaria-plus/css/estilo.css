@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fef8f8;
+}
+
+.center-div {
+    
+    width: 700px;
+    margin: 10px auto;
+    text-align: center;
+    
+}
+
+
+.secao-topo {
+    
+    width: 700px;
+    margin: 10px auto;
+    text-align: center;
+    word-spacing: 14px;
+    border-bottom: 3px solid #de8e37;
+    
+}
+
+
+#produtos {
+    background-color: #de8e37 ;
+    line-height: 30px;
+    
+}
+
+.img-logotipo {
+    
+    width: 200px;
+    
+}
+
+.img-banner {
+    width: 700px;
+    
+}
+
+.img-geral {
+    width: 400px;
+    padding-bottom: 15px;
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color:#de8e37
+}
+
+
+.font-size {
+    font-size: 17px;
+    margin-left: 50px;
+    margin-right: 50px;
+    line-height: 30px;
+
+}
+
+.font-color {
+
+    color:white;
+}
+
+h1 {
+    
+    font-size: 28px;
+    margin: 5px;
+    line-height: 35px;
+    
+}
+ 
+
+h2 {
+    font-size: 21px;
+    color: #de8e37 ; 
+    margin-top: 5px;
+    
+}
+
+h3 { 
+    font-size: 19px;
+    padding-top: 19px;
+    
+}
+
+h4 {
+    font-size: 20px;
+}
+    
+span {
+    font-weight: bold;
+}
+
+
+
+
+
+
