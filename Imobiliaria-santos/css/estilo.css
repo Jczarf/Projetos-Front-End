@@ -1,4 +1,8 @@
-body{
+html { 
+    scroll-behavior: smooth;
+}
+
+body {
     margin: 0px;
     padding: 0px;
     font-family: Tahoma;
@@ -6,8 +10,8 @@ body{
 
 .topo-pagina {
 
-background-color:#afddfb ;
-text-align: center;
+    background-color:#afddfb ;
+    text-align: center;
 
 }
 
@@ -21,10 +25,12 @@ text-align: center;
 }
 
 .logotipo {
+    
     height: 180px;
 }
 
 .topo-pagina a {
+    
     text-decoration: none;
     color: #1d1d1d;
     font-size: 18px;
@@ -49,6 +55,7 @@ text-align: center;
 }
 
 h1 {
+    
     font-size: 35px;
     margin-top: 50px;
     margin-bottom: 5px;
@@ -57,16 +64,20 @@ h1 {
 }
 
 h2 { 
+    
     padding-top: 25px;
     font-size: 25px;
+
 }
 
  p {
+
     text-align: justify;
     
 }
 
 .secao-sobre img {
+
     width: 500px;
 
 }
@@ -120,22 +131,29 @@ h2 {
 }
 
 .text-wellow {
+
     color: #fff81b;
+
 }
 
 
 .text-blue {
+
     color:#1c81c0; 
     font-weight: bold;
+
 }
 
 .text-white {
+
     color:#ffffff ; 
     font-weight: bold ;
+
 }
 
 
 .text-size {
+
     font-size: 18px;
     line-height: 35px;
 
